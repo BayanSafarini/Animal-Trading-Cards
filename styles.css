@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(87, 90, 88);
+}
+
+.card-body {
+    background-color: #e9e1d6af;
+    font-family: sans-serif;
+    width: 300px;
+    border: 2px solid hsl(35, 30%, 60%);
+    border-radius: 10px;
+    padding: 0px 10px;
+    margin: 10px calc((100% - 300px) / 2);
+    box-shadow: 5px 7px #e9e1d624;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.info {
+    width: 276px;
+    border: 2px solid hsl(35, 30%, 60%);
+    border-radius: 10px;
+    margin: 10px 0px;
+    padding: 0px 10px;
+    font-size: 10pt;
+}
+
+.interesting-fact {
+    font-style: italic;
+}
+
+span {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+ul {
+    padding: 0px;
+}
+
+li {
+    list-style: none;
+}
