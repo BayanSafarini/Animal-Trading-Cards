@@ -15,4 +15,4 @@ A simple web project showcasing an animal trading card for the Giant Panda. The 
 
 ## Acknowledgments
 
-- Image and facts sourced from [World Wildlife Fund](https://www.worldwildlife.org/species/giant-panda).
+- Facts sourced from [World Wildlife Fund](https://www.worldwildlife.org/species/giant-panda).
